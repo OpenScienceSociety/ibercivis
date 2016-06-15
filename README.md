@@ -1,13 +1,13 @@
-# Citizen science models, practices and impacts
+## Citizen science models, practices and impacts
 
-## Authors :
+### Authors :
 - Fermin Serrano
 - Jesus Clemente
 - Mari Carmen Ibañez
 - Eduardo Lostal
 - Francisco Sanz
 
-## Abstract : 
+### Abstract : 
 
 Ibercivis (www.ibercivis.es) is the national foundation of Citizen Science in Spain that promotes and supports Citizen Science experiments and studies, delivering services to the communities as well as deploying our own tools and experiences. Our main approach to public engagement is to promote the uptake of Citizen Science tools to enrich research by changing current approaches to scientific challenges and by incorporating knowledge from outside the academia. 
 
